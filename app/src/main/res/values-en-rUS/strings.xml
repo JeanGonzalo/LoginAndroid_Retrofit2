@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginAPI</string>
+    <string name="login">Login</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="dont_have_account">¿Dont have account?,</string>
+    <string name="create_here">Create Here</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_button_create">Join Up</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="toolbar_title_createaccount">Create Account</string>
+    <string name="timecard_card">4 días</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+</resources>
